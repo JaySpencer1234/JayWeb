@@ -1,0 +1,26 @@
+.bg {
+    background-image: url("resources/images/backgroundimage.jpg");
+}
+
+
+.navbar {
+   
+}
+
+.tabbar {
+
+}
+
+.bodyblock {
+    body {
+        color: white;
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 24px;
+        color: red;
+        text-decoration: underline;
+        padding-bottom: 6px;
+    }
+}
