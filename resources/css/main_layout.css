@@ -1,0 +1,44 @@
+body {
+    background-image: url(../images/backgroundimage.jpg);
+}
+
+.section {
+    background-color: #282a36;
+    border-radius: 16px;
+
+}
+
+.section.topbar {
+    
+}
+
+.section.tabs {
+
+}
+
+.section.navbar {
+   
+}
+
+.link_icons {
+
+}
+
+.section.bodyblock {
+    
+}
+
+.writing_area {
+    p {
+        color: white;
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 24px;
+        color: #ff5555;
+        padding-bottom: 6px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
