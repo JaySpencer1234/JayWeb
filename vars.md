@@ -5,7 +5,7 @@
 ## Colors
 ### Background
 - **Background-dark**: #21222c
-- **Background-normal**: 282a36
+- **Background-normal**: #282a36
 
 ### Heading
 - **Accent**: #ff5555
