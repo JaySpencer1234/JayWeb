@@ -11,6 +11,9 @@
 - **Accent**: #ff5555
 - **h2**: #ffb86c
 - **h3**: #50fa7b
-- **h4**: #68dbd3
+- **Itallics + h4**: #68dbd3
 - **h5**: #c592de
 - **h6**: #bd93f9
+
+### Other
+- **Callout**: #54b0a9
